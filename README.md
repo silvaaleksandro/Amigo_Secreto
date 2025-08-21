@@ -1,4 +1,5 @@
 # Amigo Secreto
+![Tela_inicial_Amigo_secreto](https://github.com/user-attachments/assets/b30ba99b-0535-42d4-9a1d-4f6b3fedd17d)
 
 ## Funcionalidades:
 
